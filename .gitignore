@@ -4,3 +4,5 @@ flagged
 .env
 *.session
 *.session-journal
+data/images
+data/keys.json
